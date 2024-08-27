@@ -2,7 +2,7 @@
 - 👀 I’m interested in Full stack Development
 - 🌱 I’m currently learning ReactJs and NExtJs
 - 💞️ I’m looking to collaborate on  software development projects
-- 📫 How to reach me Linkdin
+- 📫  reach me through Linkdin
 
 
 <!---
